@@ -4,7 +4,7 @@ title 🛠️ Installation des Mods Minecraft 1.20.1
 color 07
 
 :: Définir la version actuelle
-set "version=1.0.0"
+set "version=1.1.0"
 set "repoUrl=https://raw.githubusercontent.com/iSweat-exe/Minecraf-Mods-Downloader/master"
 set "updateScript=loader-updated.bat"
 
