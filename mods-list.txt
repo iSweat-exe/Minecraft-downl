@@ -1,0 +1,3 @@
+The_Anomaly (txt option), https://www.curseforge.com/api/v1/mods/1043571/files/5848458/download
+Create, https://www.curseforge.com/api/v1/mods/328085/files/5838779/download
+GeckoLib, https://www.curseforge.com/api/v1/mods/388172/files/5675221/download
