@@ -5,7 +5,7 @@ color 07
 
 :: Début
 echo =====================================================
-echo        🛠️  Installation des Mods 🛠️
+echo        🛠️  Installation des Mods test2.0 🛠️
 echo =====================================================
 echo.
 echo Bienvenue dans le programme d'installation des mods !
