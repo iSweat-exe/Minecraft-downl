@@ -5,7 +5,7 @@ color 07
 
 :: Début
 echo =====================================================
-echo        🛠️  Installation des Mods test2.0 🛠️
+echo        🛠️  Installation des Mods Minecraft v1.0.0 🛠️
 echo =====================================================
 echo.
 echo Bienvenue dans le programme d'installation des mods !
@@ -58,7 +58,7 @@ echo [Mods]
 
 :: Téléchargement des mods
 set /a totalMods=3
-echo 🌐📁 Téléchargement des nouveaux mods... "%totalMods% mods"
+echo 🌐📁 Téléchargement des mods... "%totalMods% mods"
 echo.
 
 :: Téléchargement du Mod 1
